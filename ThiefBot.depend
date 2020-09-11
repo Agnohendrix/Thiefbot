@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1599214910 source:c:\users\agnoh\source\thiefbot\main.cpp
-	<windows.h>
-	<time.h>
-	<stdio.h>
-
